@@ -1,5 +1,6 @@
 # AWS_Training
 Amazon Virtual Private Clou (Amazon VPC) enables  you to launch  Amazon Web services (AWS) resources into a virtual network that you defined. This Virtual network closely resembles a traditional network that you would operate in your own data center. with the benefits of using the scalable infrastructure of AWS.
+![image](https://user-images.githubusercontent.com/49886132/118053243-c68c4c80-b349-11eb-8f5c-72f5466f9358.png)
 
 With this lab you can: 
 
